@@ -1,0 +1,5 @@
+{
+  "IGUI_PZPeek_Visibility": "Faded tree visibility",
+  "IGUI_PZPeek_VisibilityTooltip": "Visibility of ordinary faded trees: 0%% invisible, 100%% opaque. Applies indoors and outdoors. Jumbo tree crowns follow Peek a View. Default: 30%%.",
+  "IGUI_PZPeek_VisibilityHelp": "Default: 30%%. 0%% = invisible, 100%% = opaque. Ordinary trees only."
+}
