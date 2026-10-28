@@ -1,0 +1,13 @@
+name=[B42] PZOpt - Peek a View Compatibility (WIP)
+id=PZPeek_WIP
+author=Antikristianos
+description=Tree fading compatibility and ordinary-tree visibility control. Activate either the release PZOptPreloader or PZOptPreloader (WIP), together with Peek a View, and fully restart the game.
+icon=../common/icon.png
+require=\ZombieBuddy,\PeekAView
+loadModAfter=\PZOptPreloader,\PZOptPreloader_WIP
+javaJarFile=media/java/client/PZPeek.jar
+javaPkgName=antikristianos.pzpeek
+modversion=1.1
+versionMin=42.21
+versionMax=42.21.99
+incompatible=PZPeek
