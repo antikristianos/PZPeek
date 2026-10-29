@@ -3,12 +3,12 @@
   "Project": "PZPeek",
   "Repository": "antikristianos/PZPeek",
   "Branch": "wip",
-  "Tag": "wip-1.63",
+  "Tag": "wip-1.64",
   "ModVersion": "1.1",
-  "CollectionVersion": "1.63",
+  "CollectionVersion": "1.64",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "UploadManifestSha256": "E62B8E2B4F740DC36F534BFD4140B7ED7918454ED930F7A73CB028DD35FC94F5",
   "Artifact": {
     "Path": "mods/PZPeek_WIP/42.21/media/java/client/PZPeek.jar",
     "Size": 99320,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 14843,
-      "Sha256": "1493DA76FF30D8B5F6AC2ABD7538995EF88C4FDDAB17AFB2D2A2216B8A239170"
+      "Sha256": "0BD1796AD2AECF1ACD7C5EB14095A921AF873DDE950E09976D69B5546773DC28"
     },
     {
       "Path": "build.ps1",
