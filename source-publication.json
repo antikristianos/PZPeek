@@ -3,16 +3,16 @@
   "Project": "PZPeek",
   "Repository": "antikristianos/PZPeek",
   "Branch": "main",
-  "Tag": "v1.1",
-  "ModVersion": "1.1",
+  "Tag": "v1.2",
+  "ModVersion": "1.2",
   "CollectionVersion": null,
   "WorkshopId": 3823072403,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823072403",
-  "UploadManifestSha256": "0C7A10B3A0DA362BBFF7008652DFEE108E972136D5D2279A1E23E7EF7149B6A5",
+  "UploadManifestSha256": "945226582D179098DBB4EE432A06A390513EFA8D0868932530BE4CC54BAE8273",
   "Artifact": {
     "Path": "mods/PZPeek/42.21/media/java/client/PZPeek.jar",
     "Size": 99320,
-    "Sha256": "D0D03419E81C01E2B7DED3BBB6B9AC40D70772AFBDED8678DA059AD311991D78"
+    "Sha256": "D8ABE205530FF490491BC61B7DB06F09E4E99DD2D30893542CE26F2E1A7A0008"
   },
   "Sources": [
     {
@@ -23,17 +23,17 @@
     {
       "Path": "MANIFEST.MF",
       "Size": 91,
-      "Sha256": "05400C49618DFD1DE0FA98E52836499BE17676CCD7CD26B92E778161118F9345"
+      "Sha256": "EFADE3836122CCE93629F8B1107DFDBF5B4C86FE237FBF2A8980A4025D6D5735"
     },
     {
       "Path": "README.md",
       "Size": 1311,
-      "Sha256": "BCE8924ACD931D01350C4929C0C971BB11141E2F6DF9CE190182F12FA243558B"
+      "Sha256": "3B5C97554C9F279EEC0478E3A6850BC5A1B6D0E33E32DD51329E359F58202F0A"
     },
     {
       "Path": "build.json",
-      "Size": 14843,
-      "Sha256": "1493DA76FF30D8B5F6AC2ABD7538995EF88C4FDDAB17AFB2D2A2216B8A239170"
+      "Size": 14845,
+      "Sha256": "786A43A3A06F3D189C94E4E7D8BB3A2161DE5A20B336E5B0423E146B95205C2D"
     },
     {
       "Path": "build.ps1",
@@ -52,8 +52,8 @@
     },
     {
       "Path": "runtime/42.21/mod.info",
-      "Size": 404,
-      "Sha256": "7028B156C7B1B44F9658FFDB7C077C47601148F153E49E1ADAC589E98AE8E850"
+      "Size": 524,
+      "Sha256": "8AAF02FBB79D34BD6B900C923671384E2E381FE886FDFCF18AD14FDC88D3067D"
     },
     {
       "Path": "src/antikristianos/pzpeek/Diagnostics.java",

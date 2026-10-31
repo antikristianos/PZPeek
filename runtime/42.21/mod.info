@@ -1,12 +1,12 @@
-name=[B42] PZOpt - Peek a View Compatibility
+name=[B42.21] PZOpt - Peek a View Compatibility (Legacy)
 id=PZPeek
 author=Antikristianos
-description=Tree fading compatibility and ordinary-tree visibility control.
+description=Standalone compatibility for Build 42.21 only. From Build 42.22 this functionality is integrated into the compatible PZOptPreloader; leave PZPeek disabled on newer builds.
 icon=../common/icon.png
 require=\ZombieBuddy,\PZOptPreloader,\PeekAView
 javaJarFile=media/java/client/PZPeek.jar
 javaPkgName=antikristianos.pzpeek
-modversion=1.1
+modversion=1.2
 versionMin=42.21
 versionMax=42.21.99
 incompatible=PZPeek_WIP
